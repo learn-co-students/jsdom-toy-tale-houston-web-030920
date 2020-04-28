@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 7
     },
     {
       "id": 2,
@@ -47,6 +47,54 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "test",
+      "image": "thid",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "test",
+      "image": "thid",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "test run",
+      "image": "rest",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "penguin",
+      "image": "penguin",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "x",
+      "image": "x",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "name": "New Test Toy",
+      "image": "https://www.bbtoystore.com/mm5/beanies/BD_waddle.jpg",
+      "likes": 0,
+      "id": 14
+    },
+    {
+      "name": "second penguin",
+      "image": "https://www.bbtoystore.com/mm5/beanies/BD_waddle.jpg",
+      "likes": 0,
+      "id": 15
+    },
+    {
+      "name": "test",
+      "image": "test",
+      "likes": 5,
+      "id": 16
     }
   ]
 }
